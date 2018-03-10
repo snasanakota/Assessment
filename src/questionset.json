@@ -1,0 +1,49 @@
+[
+     {  "id" :"Q1",
+        "Question": "How are you?",
+        "Options" : {
+            "1" : "Doing Good",
+            "2" : "Doing Great",
+            "3" : "Doing Better than ever"
+        },
+        "CorrectAnswer" : 3
+    },
+    {  "id" :"Q2",
+        "Question": "Best Food?",
+        "Options" : {
+            "1" : "Mom Made food",
+            "2" : "Chef Made Food",
+            "3" : "Wife Made Food"
+        },
+        "CorrectAnswer" : 3
+    },
+     
+    {    "id" :"Q3",
+        "Question": "Fastest Car?",
+        "Options" : {
+            "1" : "Lamborghini",
+            "2" : "Ferrari",
+            "3" : "Self Made"
+        },
+        "CorrectAnswer" : 3
+    },
+
+    {   "id" :"Q4",
+        "Question": "What time you can think better?",
+        "Options" : {
+            "1" : "When I sleep good",
+            "2" : "When I take my vitamins daily",
+            "3" : "If I do my workout"
+        },
+        "CorrectAnswer" : 3
+    },
+    {   "id" :"Q5",
+        "Question": "How to best get Ahead in Life?",
+        "Options" : {
+            "1" : "Work Hard",
+            "2" : "Work Smart",
+            "3" : "Work Smart and Hard in right oppurtunity"
+        },
+        "CorrectAnswer" : 3
+    }
+]
